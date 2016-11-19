@@ -1,3 +1,3 @@
 <?php
-	echo "Eka Rangga"
+	echo "Eka Rangga Mahardika"
 ?>
